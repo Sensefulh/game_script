@@ -1,0 +1,2 @@
+# game_script
+zhubo无聊写了想快速刷游戏材料写了一个造梦4角色刷大盗的python脚本
